@@ -18,6 +18,11 @@ Przygotowane w oparciu o:
 ## Uruchamianie
 
 ```
+git clone https://github.com/mieszkou/docker-laravel .
+start
+```
+
+```
 docker compose build
 docker compose up
 ```
